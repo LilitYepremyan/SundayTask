@@ -25,3 +25,5 @@ function maxPossible(num1, num2) {
 let number1 = 2345;
 let number2 = 678;
 console.log(maxPossible(number1, number2));
+
+//console.log(maxPossible(number1, number2));
