@@ -1,1 +1,3 @@
-let user = "asadadad";
+let user = {
+name:test
+};
